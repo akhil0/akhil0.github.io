@@ -1,0 +1,94 @@
+# Site settings
+title: Akhil
+name: Satya Akhil Chowdary Kuchipudi
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/akhil0
+ - title: StackOverflow
+   url: http://stackoverflow.com/users/6885292/akhil0
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/akhil0
+
+#Any buzzword skills you want to include
+skills:
+ - Java
+ - Hibernate (elementary)
+ - Spring MVC (elementary)
+ - SQL
+ - AWS
+ - REST
+ - JavaScript
+ - NodeJS
+ - DevOps
+ - Docker
+ - Python (elementary)
+ - ReactJS (elementary)
+ - AngularJS (elementary)
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: http://nothing.com/:(
+
+#Work experience is required
+roles:
+ - title: Fabric Developer Co-op
+   start: Jan 2016
+   end: July 2016
+   employer: MassMutual Financial Group
+   description: Worked on project which aims at automating CI/CD process. Part of a Dev-Ops team which handled AWS, Docker, Jenkins, VCS. Developed a small scale API on APIGEE. Developed a dashboard using ReactJS & Mozaik. Deployed on AWS inside MM VPC.
+
+#Education is required
+education:
+ - level: Bachelor of Technology (B.Tech.)
+   date: 2010-14
+   subject: Computer Science
+   gap: 3.8
+   school: SRM University
+ - level: Master of Science (M.S.)
+   date: 2015-
+   subject: Computer Science
+   gap: 3.7
+   school: Northeastern University
+
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - akhil0/WebCrawler
+ - akhil0/BookHaven
+ - akhil0/SpamClassifier
+ - akhil0/FileIndexer
+ - akhil0/Page-Rank
+ - akhil0/ElasticSearch
+ - akhil0/instagrab-js (In-Development)
+ - akhil0/MLL (In-Development)
+
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: 
+#   flairimageurl: 
+
+#Mobile apps section is optional
+#apps:
+# - name: None
+#   platform: Android
+#   url: 
+#   description: A basic early Android app (open sourced)
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Java</strong>: 
+ <br/><br/>
+   <strong>Web Development</strong>: 
+ <br/><br/>
+   <strong>Development Control</strong>: 
+ <br/><br/>
+   <strong>DevOps</strong>: 
+ <br/><br/>
+   <strong>Cloud Computing</strong>: 
+ <br/><br/>
+   Lorem Ipsum
