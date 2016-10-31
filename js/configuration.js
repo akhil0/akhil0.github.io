@@ -1,3 +1,5 @@
-var CONFIGURATION.links = [
-	{ title: "", url: "" }
+var CONFIGURATION
+.
+links = [
+    {title: "", url: ""}
 ];

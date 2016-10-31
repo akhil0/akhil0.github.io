@@ -81,14 +81,9 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Java</strong>: 
- <br/><br/>
-   <strong>Web Development</strong>: 
- <br/><br/>
-   <strong>Development Control</strong>: 
- <br/><br/>
-   <strong>DevOps</strong>: 
- <br/><br/>
-   <strong>Cloud Computing</strong>: 
- <br/><br/>
+   <strong>Java</strong>: <br/><br/>
+   <strong>Web Development</strong>: <br/><br/>
+   <strong>Development Control</strong>: <br/><br/>
+   <strong>DevOps</strong>: <br/><br/>
+   <strong>Cloud Computing</strong>: <br/><br/>
    Lorem Ipsum
